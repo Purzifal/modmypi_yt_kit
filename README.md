@@ -7,7 +7,9 @@
 **Author:** CAPGames  
 **Links:** [ModMyPi](https://www.modmypi.com), [YouTube Workshop Kit](https://www.modmypi.com/raspberry-pi/set-up-kits/project-kits/raspberry-pi-youtube-workshop-kit/)  
 
-**State:** In Development 
+**State:** 33% Complete 
+
+**Python Versions:** 2.7.9, 3.4.2
 
 <hr />  
 
@@ -25,18 +27,11 @@ You can purchase a customizable bundle from [[Here]](https://www.modmypi.com/ras
 
 ## **Complete Tutorials**
 
-None at this time  
+Code and Wiring Diagrams Complete
 
 <hr />  
 
 ## **Tutorials in Development**
 
-**Tutorial 1** : Introduction  
-**Tutorial 2** : LED control  
-**Tutorial 3** : LED Blink  
-**Tutorial 4** : Switch Control  
-**Tutorial 5** : LED Blink With User Input  
-**Tutorial 6** : Morse Code  
-**Tutorial 7** : Temperature Sensor  
-**Tutorial 8** : Light Dependent Resistor  
-**Tutorial 9** : Motion Sensor
+Written Tutorials  
+Video Tutorials
