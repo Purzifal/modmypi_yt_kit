@@ -6,12 +6,11 @@ Turns 2 LED's on and off
 
 # Builtin Python Libraries
 import os
-from time import sleep
 
 # Installed Libraries
 import RPi.GPIO as GPIO
 
-HEADER = 'LED ON/OF Test (Ctrl+C to Quit)\n\n'
+HEADER = 'LED ON/OFF Test (Ctrl+C to Quit)\n\n'
 DISPLAY = '{h}LED Status: {s}'
 
 # Create some dynamic controls
@@ -38,24 +37,8 @@ def update_display(status):
     # Print the formatted text to the console
     print(DISPLAY.format(h=HEADER, s=status))
 
-try:
-    # Switch the LEDs on
-    GPIO.output(GPIO_LIST, GPIO.HIGH)
+# Switch the LEDs on
+GPIO.output(GPIO_LIST, GPIO.LOW)
 
-    # Update the console text
-    update_display('ON')
-
-    # Wait the specified time
-    sleep(WAIT_TIME)
-
-    # Switch the LEDs off
-    GPIO.output(GPIO_LIST, GPIO.LOW)
-
-    # Update the console text
-    update_display('OFF')
-
-# when CTRL+C is pressed, terminate the program and cleanup
-except KeyboardInterrupt:
-    print('\nTerminating Program')
-finally:
-    GPIO.cleanup()
+# Update the console text
+update_display('OFF')
