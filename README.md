@@ -1,6 +1,6 @@
 ![ModMyPi: Youtube Workshop Kit](http://capgames.co.uk/images/yt_workshop_kit.png "Youtube Workshop Kit")
 
-## <p align="center">This is a set of updated tutorials on how to work with ModMyPi's YouTube Workshop Kit</p>
+<p align="center">This is a set of updated tutorials on how to work with ModMyPi's YouTube Workshop Kit</p>
 
 <hr />  
 
