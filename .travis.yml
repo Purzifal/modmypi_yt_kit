@@ -1,0 +1,9 @@
+language: python
+python:
+  - "3.4"
+install:
+  - pip install pylint
+  - python setup.py -q install
+before_script:
+  - "pylint ."
+script: nosetests
