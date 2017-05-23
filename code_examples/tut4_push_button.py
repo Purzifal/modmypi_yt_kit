@@ -1,7 +1,8 @@
 #!/usr/bin/python3
 
 '''
-Makes both LEDs blink on and off a set number of times
+Turns an LED on and off depending on the state of
+a push button
 '''
 
 # Builtin Python Libraries
