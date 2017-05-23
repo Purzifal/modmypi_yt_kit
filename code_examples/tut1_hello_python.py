@@ -27,4 +27,4 @@ print('\n=== Using String Formatting ===')
 # Using the string formatting does the same as above
 # but makes strings easier to read with complex strings
 print('{} {} !!'.format(VAR_1, VAR_2))
-print('{first} {second} !!'.format(second=VAR_2, first=VAR_1))
+print('the 1st variable is {first} and 2nd is {second} !!'.format(second=VAR_2, first=VAR_1))
