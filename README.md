@@ -27,11 +27,11 @@ You can purchase a customizable bundle from [[Here]](https://www.modmypi.com/ras
 
 ## **Complete Tutorials**
 
-Code and Wiring Diagrams Complete
-
+Code and Wiring Diagrams Complete  
+PDF Written Tutorials  
 <hr />  
 
 ## **Tutorials in Development**
 
-Written Tutorials  
+Web Written Tutorials  
 Video Tutorials
