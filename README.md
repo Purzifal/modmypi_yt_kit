@@ -7,7 +7,7 @@
 **Author:** CAPGames  
 **Links:** [ModMyPi](https://www.modmypi.com), [YouTube Workshop Kit](https://www.modmypi.com/raspberry-pi/set-up-kits/project-kits/raspberry-pi-youtube-workshop-kit/)  
 
-**State:** 33% Complete 
+**State:** 50% Complete 
 
 **Python Versions:** 2.7.9, 3.4.2
 
